@@ -7,7 +7,8 @@
 ## Общая информация:
 Каждому занятию соответствует свой порядковый номер. Всего занятий 18 (12 - программирование на Python, 6 - Python для анализа данных). В папке каждого занятия вы найдете блокноты с пройденным на семинаре материалом и ссылки на дополнительные материалы.
 
-## Материалы
+## Блок 1. Python
+
 1 занятие (12.05.2020)  
 [Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные. Строки, ввод и форматирование](https://github.com/pileyan/DPO_Python_v2/tree/master/1_Introduction)
 
@@ -31,6 +32,27 @@
 
 8 занятие (06.06.2020)
 [Сбор данных: web-scraping с BeautifulSoup(Продолжение).Продвинутая работа со словарями. Работа с файлами типа JSON и XML, работа с сервисами через API](https://github.com/pileyan/DPO_Python_v2/tree/master/8_JSON_XML)
+
+9 занятие (10.06.2020)
+[Сбор данных:Selenium, Openpyxl - библиотека для работы с Excel-файлами](https://github.com/pileyan/DPO_Python_v2/tree/master/9_Selenium_Openpyxl)
+
+10 занятие (10.06.2020)
+["Библиотеки для работы с данными в табличном формате: SQL для Python. Работа с Clickhouse."](https://github.com/pileyan/DPO_Python_v2/tree/master/10_Clickhouse)
+
+11 занятие (17.06.2020)
+[Объектно-ориентированное программирование. Классы. Создание модулей в Python.  Введение в среду разработки PyCharm.](https://github.com/pileyan/DPO_Python_v2/tree/master/11_Classes)
+
+12 занятие (24.06.2020)
+[Финальный проект - создание чат-бота в Telegram.](https://github.com/pileyan/DPO_Python_v2/tree/master/12_Bot)
+
+
+## Блок 2. Введение в анализ данных
+
+1 занятие (30.06.2020)
+[Введение в numpy: векторы и матрицы. Математические операции с векторами и матрицами.](https://github.com/pileyan/DPO_Python_v2/tree/master/13_Numpy)
+
+2 занятие (01.07.2020)
+[Введение в pandas: работа с данными в табличном виде. Фильтрация и агрегация.](https://github.com/pileyan/DPO_Python_v2/tree/master/14_Pandas)
 
 Материалы для тренировки  
 [Ссылки и краткие описания](https://github.com/rogovich/2020_DPO_PythonProg/blob/master/dopmaterialy.md)
